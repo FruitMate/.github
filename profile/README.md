@@ -1,10 +1,5 @@
 # Cloud Computing - FruitMate
 
-<!-- <h1 align="center">
-  <img align="center" src="../logo.png"  width="500"></img> -->
-
-[Logo](./../logo.png)
-
 ## About This App
 
 The FruitMate application is an application that can help detect the level of fruit ripeness. It is equipped with additional features such as news, fruit information, fruit storage information, and plant care. This application is expected to assist users, especially farmers, in predicting which fruits are suitable to enter the market.
