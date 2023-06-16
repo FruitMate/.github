@@ -1,7 +1,7 @@
 # Cloud Computing - FruitMate
 
 <h1 align="center">
-  <img align="center" src="../assets/logo.png"  width="500"></img>
+  <img align="center" src="../logo.png"  width="500"></img>
 
 ## About This App
 
