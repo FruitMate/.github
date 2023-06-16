@@ -1,7 +1,9 @@
 # Cloud Computing - FruitMate
 
-<h1 align="center">
-  <img align="center" src="../logo.png"  width="500"></img>
+<!-- <h1 align="center">
+  <img align="center" src="../logo.png"  width="500"></img> -->
+
+![Logo OpenAI](../logo.png)
 
 ## About This App
 
