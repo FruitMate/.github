@@ -3,7 +3,7 @@
 <h1 align="center">
   <img align="center" src="../assets/logo.png"  width="500"></img>
   
-[logo]('/assets/logo.png')
+[logo]('assets/logo.png')
 
 ## About This App
 
