@@ -1,4 +1,4 @@
-# Cloud Computing - FruitMate
+# FruitMate - Good Fruit, Happy Farmers
 
 ## About This App
 
